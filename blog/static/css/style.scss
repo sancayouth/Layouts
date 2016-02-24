@@ -7,8 +7,6 @@ $link:#FFC107;
 
 $family: unquote("Roboto");
 $header-font: unquote("Play");
-//@import url(//fonts.googleapis.com/css?family=#{$family});
-//@import url(//fonts.googleapis.com/css?family={$header-font}:400,700);
 
 @mixin shadow() {
   background-color: white;
